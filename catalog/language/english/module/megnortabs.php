@@ -1,6 +1,6 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Top Products';
+$_['heading_title'] = 'Top Categories';
 
 $_['tab_latest'] = 'Latest';
 $_['tab_bestseller'] = 'Bestseller';

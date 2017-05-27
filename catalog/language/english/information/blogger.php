@@ -3,21 +3,21 @@
 $_['heading_title']       = 'Blogs';
 
 // Text
-$_['text_blogs']          = 'All Blogs';
+$_['text_blogs']          = 'Blogs';
 $_['text_success']        = 'You have successfully added your comment!';
 $_['text_approval']       = 'You have successfully added your comment and it is awaiting approval!';
 $_['text_no_blogs']       = 'There are no blogs currently on this store!';
 $_['text_read_more']      = 'read more';
 $_['text_date_added']     = 'Date Added';
 $_['text_login_required'] = 'You must <a href="%s">login</a> to add a comment. If you do not have an account, you may <a href="%s">register</a> for one. Registration is free!';
-$_['text_your_comments']  = 'Your Comments';
+$_['text_your_comments']  = 'Comments';
+$_['text_comment']   = 'Leave Comments';
 $_['text_error']       	  = 'Blog not found!';
 
 // Entry
 $_['entry_author']        = 'Author';
 $_['entry_email']         = 'E-Mail Address';
 $_['entry_comment']       = 'Comment';
-$_['text_author']      = 'admin';
 
 // Column
 $_['column_title']        = 'Blog Title';
